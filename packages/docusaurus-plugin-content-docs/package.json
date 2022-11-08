@@ -35,7 +35,7 @@
     "globby": "^10.0.1",
     "import-fresh": "^3.2.2",
     "joi": "^17.2.1",
-    "loader-utils": "^1.2.3",
+    "loader-utils": "^2.0.3",
     "lodash": "^4.17.19",
     "lodash.flatmap": "^4.5.0",
     "lodash.groupby": "^4.6.0",
